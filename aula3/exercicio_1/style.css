@@ -1,0 +1,27 @@
+/*CSS exercicio 1*/
+
+.titulo{ 
+text-align: center;
+color: rgb(30, 30, 167);
+font-size: 3em;
+}
+.p1{
+    text-indent: 1.5em;
+    font-size: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    font-style: italic;
+}
+.lista{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    margin-left: 2em;
+    margin-right: 3.5em;
+}
+.l{
+    background-color: rgb(199, 192, 192);
+    width: 60%;
+    height: 2em;
+}
